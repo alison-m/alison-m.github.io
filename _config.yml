@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.dcassol.com
-title: Daniela Cassol
-email: danicassol@gmail.com
-author: Daniela Cassol
-description: "Daniela's Personal Page"
+url: http://www.alison-m.com
+title: Alison Mills
+email: m_alison@ymail.com
+author: Alison Mills
+description: "Alison's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,7 +26,7 @@ gems:
 social:
   - icon: github
     title: github
-    url: https://github.com/dcassol  
+    url: https://github.com/alison-m  
   - icon: envelope-o
     title: email
     url: mailto:danicassol@gmail.com
