@@ -1,0 +1,11 @@
+---
+layout: default
+img: phd.JPG
+category: Education
+title: PhD in Cool
+description: 2012-forever
+---
+
+* __2012 - 2016__
+* potato
+ 
